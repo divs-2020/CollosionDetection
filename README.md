@@ -1,2 +1,2 @@
-# CollosionDetection
-p5.play collision between the sprites
+# p5.play-boilerplate
+Boiler plate for p5.play
